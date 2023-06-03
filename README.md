@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README guide for the weather app:
-
 # Weather App
 
 The Weather App is a simple Python application that provides current weather information for a given city. It utilizes the OpenWeatherMap API to retrieve weather data and displays it in a graphical user interface (GUI) using the Tkinter library.
